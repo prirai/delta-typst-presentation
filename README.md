@@ -2,7 +2,7 @@
 
 Create simple and beautiful static slides with Typst.
 
-Delta is a divergent fork of slydst which allows the creation of slides using Typst headings.
+Delta is a divergent fork of [slydst](https://github.com/glambrechts/slydst/) which allows the creation of slides using Typst headings.
 This simplicity comes at the expense of dynamic content such as subslide animations.
 For more complete and complex slides functionalities, see other tools such as Polylux.
 

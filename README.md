@@ -45,8 +45,8 @@ This will build and watch your slides using the Delta template.
 ├── README.md
 ├── slydst copy.typ
 ├── slydst.typ
-├── svg/
-│   └── example-*.svg
+├── jpg/
+│   └── example-*.jpg
 ├── template/
 │   ├── logo.png
 │   ├── main.pdf
@@ -181,7 +181,7 @@ Definitions, theorems, lemmas, corollaries, and algorithms boxes are also availa
 
 ## Example
 
-<kbd><img src="svg/example-01.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-02.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-03.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-04.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-05.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-06.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-07.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-08.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-09.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-10.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-11.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-12.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-13.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-14.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-15.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-16.svg" width="300" style="background-color: white;"></kbd> <kbd><img src="svg/example-17.svg" width="300" style="background-color: white;"></kbd>
+<kbd><img src="jpg/example-01.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-02.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-03.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-04.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-05.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-06.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-07.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-08.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-09.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-10.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-11.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-12.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-13.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-14.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-15.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-16.jpg" width="300" style="background-color: white;"></kbd> <kbd><img src="jpg/example-17.jpg" width="300" style="background-color: white;"></kbd>
 
 
 ---
